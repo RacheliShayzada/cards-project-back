@@ -28,7 +28,7 @@ nodemon
 - Start the server:
 `npm start`
 
-By default, the server will run on http://localhost:3000. You can configure the port in the index.js file.
+By default, the server will run on http://localhost:8000. You can configure the port in the index.js file.
 
 # Project Description:
 
